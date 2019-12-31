@@ -32,3 +32,5 @@ done
 
 #a nice friendly confirmation toast
 osascript -e 'display notification "Ready for geotagging" with title "Process Complete"'
+
+# Now go geotag these newly generated photos in HoudahGeo or whatever
